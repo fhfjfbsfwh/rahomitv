@@ -1,7 +1,7 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://1789-181.123091763.it.com/live/65328_.m3u8?session=vBLmzX-YaDb_RZcilxXUfl_Cu0sp2gwFrWlEHvQXAF44o-zyJpowq9YTeahCWR-4wy0lJqHilBJbzF3iUkYxzBCjedWz1zxZ&location=local
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://bdd00.4rouwanda-shop.store/live/1515000000/index.m3u8
+http://743648-30.123091763.me/live/748313_.m3u8?session=zLb-OMESPDbo1YHv8G6NFGpYgyu-dXaViujT91F7Eo-CoEIf6S-5D-7IQMR2bK-MskO-pZ2hSlhUUzRX4XcEk3isP5Vs48ag&location=local
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://bdd00.4rouwanda-shop.store/live/788550011/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://bdd00.4rouwanda-shop.store/live/9883322/index.m3u8
+http://743648-30.123091763.me/live/521551_.m3u8?session=HA4AZimfTgZ-CxFjb9P_gtIb3LYtYopTLmD0WQYcdcATgwTW5k6rwPmrc-V4SKD1-AivMSK7xISGkZRrnPgm0UwEm_fjRHlV&location=local
